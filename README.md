@@ -1,2 +1,3 @@
-# ncaf-cognitive-evaluation
-An evaluation framework measuring AGI progress across Learning, Metacognition, Attention, Executive Functions, and Social Cognition using mechanism-level grounding and diagnostic failure modes.
+> **Note on Origins**  
+> This specification began as an AI-assisted exploratory exercise inspired by Kaggle-related benchmark materials and cognitive science frameworks. It was developed as a theoretical thought experiment and architecture concept, rather than an official Kaggle competition entry.
+> 
