@@ -14,7 +14,7 @@
 
 The **Neutral Cognitive Architecture Framework (NCAF)** is an evaluation task battery designed to test whether an artificial intelligence system genuinely instantiates core cognitive faculties or merely simulates their outward products through surface shortcuts.
 
-Most modern AI benchmarks evaluate static input-output pairs or zero-shot prompt completions. NCAF complements behavioral taxonomies (such as DeepMind's cognitive taxonomy) by grounding every evaluation task in the **necessary architectural mechanism** the task is designed to probe. 
+Most modern AI benchmarks evaluate static input-output pairs or zero-shot prompt completions. NCAF complements behavioral taxonomies (such as DeepMind's cognitive taxonomy) by grounding every evaluation task in the **necessary architectural mechanism** the task is designed to probe.
 
 If a task only measures output, it cannot distinguish a system that possesses an internal cognitive mechanism from one that mimics its product via pattern-matching or external lookup. NCAF isolates target faculties using tasks structurally unsolvable via known computational shortcuts.
 
