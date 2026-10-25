@@ -1,7 +1,7 @@
 # Neutral Cognitive Architecture Framework (NCAF)
 ### Mechanism-Grounded Evaluation Task Battery for Artificial General Intelligence
 
-[![Specification](https://img.shields.io/badge/Spec-NCAF_1.0-blue.svg)](NCAF_Specification.md)
+[![Specification](https://img.shields.io/badge/Spec-NCAF_1.0-blue.svg)](ncaf-specification.md)
 [![Status](https://img.shields.io/badge/Status-Archived_Research_Spec-lightgrey.svg)](#)
 [![Domain](https://img.shields.io/badge/Domain-Cognitive_Architecture_&_AGI_Evaluation-darkgreen.svg)](#)
 
